@@ -8,9 +8,9 @@ function triangleArea(base, height) {
 
 //Solution
 
-let baseLength = 25;
+let baseLength = 50;
 
-let heightLength = 25;
+let heightLength = 50;
 
 let area = triangleArea(baseLength, heightLength);
 
