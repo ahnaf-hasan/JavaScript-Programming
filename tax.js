@@ -8,8 +8,8 @@ function calculateTax(income, expense) {
     return tax;
 }
 
-let income = 100000;  // Income value here
-let expense = 60000; // Expense value here
+let income = 500000;  // Income value here
+let expense = 50000; // Expense value here
 
 //Result
 
