@@ -1,4 +1,4 @@
-let a = "Apple, IBM, Microsoft, Google";
+let a = "Apple, IBM, Microsoft, Google Yahoo";
 
 const solve = [...a].reverse().join("");
 
