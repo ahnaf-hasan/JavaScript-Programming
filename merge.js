@@ -31,5 +31,5 @@ function merge(left, right) {
 }
 
 // Example 
-const array = [1000,3000, 7000, 2000, 6000, 4000, 5000];
+const array = [1000,3000, 7000, 2000, 6000, 4000, 5000, 8000, 9000];
 console.log("Sorted array:", mergeSort(array));
