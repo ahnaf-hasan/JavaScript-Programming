@@ -10,5 +10,5 @@ function drawTriangle(size) {
   }
   
   // Example 
-  drawTriangle(5);
+  drawTriangle(7);
   
