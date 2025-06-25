@@ -1,2 +1,2 @@
-let math_score = "Ninety, Plus.";
+let math_score = "One, Hundred.";
 console.log(math_score);
