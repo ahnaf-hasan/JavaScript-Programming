@@ -1,4 +1,4 @@
-let a = "ACCEM , ANEEDAM";
+let a = "Forensics , Cyber";
 
 const solve = [...a].reverse().join("");
 
