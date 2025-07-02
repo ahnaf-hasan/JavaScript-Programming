@@ -1,4 +1,4 @@
-let a = "Forensics , Cyber";
+let a = "AGI";
 
 const solve = [...a].reverse().join("");
 
