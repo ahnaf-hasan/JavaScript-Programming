@@ -1,4 +1,4 @@
-let a = "AGI";
+let a = "ASI";
 
 const solve = [...a].reverse().join("");
 
