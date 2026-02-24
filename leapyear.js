@@ -10,7 +10,7 @@ function isLeapYear(year) {
 
 // Example:
 
-const year = 2025;
+const year = 2026;
 if (isLeapYear(year)) {
     console.log(year + " is a leap year.");
 } else {
